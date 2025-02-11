@@ -4,14 +4,21 @@
 <img width="300" alt="1" src="https://github.com/user-attachments/assets/2cbc401b-726a-406c-b87b-d8d5788a057c" />
 
 🚀 Özellikler
+
 ✅ Seçilebilir Çarpım Tablosu → 1’den 9’a kadar istediğin çarpım tablosunu seç.
+
 ✅ Rastgele Sorular → Çarpılan sayılar 1-10 arasında rastgele belirlenir.
+
 ✅ Animasyon ve Renk Değişimi → Yanıtına göre arayüz renk değiştirir.
+
 ✅ Puan Sistemi → Doğru cevapta puan kazan, yanlışta sıfırlanır.
+
 ✅ Modern UI Tasarımı → SwiftUI ile gölge efektleri ve gradient arka plan içerir.
+
 ✅ MVVM Mimarisi → Kod yapısı temiz ve ölçeklenebilir hale getirildi.
 
 📸 Ekran Görüntüleri
+
 Ana Ekran	Doğru Cevap	Yanlış Cevap
 
 
@@ -22,19 +29,26 @@ Ana Ekran	Doğru Cevap	Yanlış Cevap
 <img width="250" alt="6" src="https://github.com/user-attachments/assets/7b0bd445-9d00-4898-a221-a84b04bfebb7" />
 
 🔧 Teknolojiler & Kullanılanlar
+
 🛠 SwiftUI – Modern iOS arayüzü oluşturmak için.
+
 🛠 MVVM Design Pattern – Daha düzenli ve ölçeklenebilir bir yapı için.
+
 🛠 State Management ( @State & @Published ) – Kullanıcı etkileşimleri için.
+
 🛠 Animations – SwiftUI’de renk değişimi ve skala animasyonları ile daha canlı bir deneyim.
 
 🏗 Kurulum ve Kullanım
+
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsin:
 
 # Reponun klonlanması
+
 git clone https://github.com/furkanislam/MultiplicationTable.git
 
 
 # Xcode projesini aç
+
 cd MultiplicationTable
 open MultiplicationTable.xcodeproj
 
